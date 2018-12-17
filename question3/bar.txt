@@ -1,0 +1,11 @@
+cowsay hi
+i am happy 
+finals is fun
+happy
+          < hi >
+            ----
+                  \   ^__^
+	           \  (oo)\_______
+		    \  |     (__) )\/\
+			|   ||----w |
+		           ||     ||
